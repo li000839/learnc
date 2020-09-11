@@ -30,6 +30,3 @@ void free_tree(tree_t *tree);
 
    Prepared December 2012 for the Revised Edition.
    ================================================================== */
-×
-Drag and Drop
-The image will be downloaded
